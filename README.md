@@ -1,8 +1,11 @@
 # Bank-Loan-Report-Summary
 
 📊 Key Highlights:
+
 •Total Loan Applications:38.6K
+
 •Month-to-Date (MTD): 4.3K
+
 •Total Funded Amount: $435.8M
 •MTD: $54.0M
 •Total Amount Received:$473.1M
